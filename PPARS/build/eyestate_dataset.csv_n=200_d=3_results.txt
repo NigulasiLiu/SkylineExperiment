@@ -1,0 +1,11 @@
+Running experiments on dataset: /home/pengyubo/wlby/PPARS/sources/eyestate_dataset.csv
+[+] Dimension=3 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=200; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=16.3209(ms); Search Time cost=865.709(ms)
+[+] Dimension=3 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=200; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=17.3591(ms); Search Time cost=756.96(ms)

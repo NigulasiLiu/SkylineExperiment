@@ -1,0 +1,21 @@
+Running experiments on dataset: /home/pengyubo/wlby/PPARS/sources/eeg-eye-state-int.csv
+[+] Dimension=3 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=16.5286(ms); Search Time cost=295619(ms)
+[+] Dimension=3 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=16.3786(ms); Search Time cost=295053(ms)
+[+] Dimension=3 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=16.3536(ms); Search Time cost=295396(ms)
+[+] Dimension=3 (Repeat 4)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=16.123(ms); Search Time cost=295642(ms)

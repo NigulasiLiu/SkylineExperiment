@@ -1,0 +1,2 @@
+Dimension,DatasetSize,GenTokenTime(ms),SearchTime(ms),Repeat
+7,1000,21.0344,24172.4,1

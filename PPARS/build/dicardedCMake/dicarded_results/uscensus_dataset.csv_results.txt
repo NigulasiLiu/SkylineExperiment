@@ -1,0 +1,106 @@
+Running experiments on dataset: /home/pengyubo/wlby/PPARS/sources/uscensus_dataset.csv
+[+] Dimension=2 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=2; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=10.7012(ms); Search Time cost=212388(ms)
+[+] Dimension=3 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=15.9969(ms); Search Time cost=294989(ms)
+[+] Dimension=4 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=4; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=21.2697(ms); Search Time cost=357432(ms)
+[+] Dimension=5 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=5; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=26.6928(ms); Search Time cost=418449(ms)
+[+] Dimension=6 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=6; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=31.9932(ms); Search Time cost=476761(ms)
+[+] Dimension=7 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=7; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=37.0059(ms); Search Time cost=532321(ms)
+[+] Dimension=8 (Repeat 1)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=8; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=42.4819(ms); Search Time cost=609943(ms)
+[+] Dimension=2 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=2; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=10.6338(ms); Search Time cost=212844(ms)
+[+] Dimension=3 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=15.9992(ms); Search Time cost=294916(ms)
+[+] Dimension=4 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=4; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=21.2699(ms); Search Time cost=357139(ms)
+[+] Dimension=5 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=5; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=26.6167(ms); Search Time cost=418098(ms)
+[+] Dimension=6 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=6; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=31.8724(ms); Search Time cost=477309(ms)
+[+] Dimension=7 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=7; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=37.1798(ms); Search Time cost=533174(ms)
+[+] Dimension=8 (Repeat 2)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=8; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=42.5033(ms); Search Time cost=609260(ms)
+[+] Dimension=2 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=2; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=10.6265(ms); Search Time cost=212983(ms)
+[+] Dimension=3 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=3; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=16.0017(ms); Search Time cost=294726(ms)
+[+] Dimension=4 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=4; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=21.2944(ms); Search Time cost=356751(ms)
+[+] Dimension=5 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=5; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=26.6946(ms); Search Time cost=417428(ms)
+[+] Dimension=6 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=6; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=32.0342(ms); Search Time cost=477615(ms)
+[+] Dimension=7 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=7; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=37.2393(ms); Search Time cost=533170(ms)
+[+] Dimension=8 (Repeat 3)
+[+] Set k0=4096; k1=80; k2=160
+[+] |p|=4096; |L|=192; |N|=160 + 8192
+[+] Cipher bitLength=8192; Decrypt pk E0=0; E1=1
+Datasize=1000; dimens=8; Repeat (query)=1; hashfuncNum=10; Gen token Time cost=42.5543(ms); Search Time cost=609343(ms)
